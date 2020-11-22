@@ -6,11 +6,11 @@ int main() {
 	int yil2;
 	int gun, ay, yas, saat, dakika, saniye;
 
-	printf("hangi yildayiz :%d", yil);
+	printf("hangi yildayiz :);
 	scanf("%d", &yil);
 	
 	
-	printf("dogdugunuz yil :%d", yil2);
+	printf("dogdugunuz yil :);
 	scanf("%d", &yil2);
 	
 	
